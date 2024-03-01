@@ -1,0 +1,1 @@
+"For this application, I utilized my knowledge of Java and MySQL. Creating an account is mandatory to enable connection. Once logged in, you can perform the following actions: view personal account information, delete the account, change the account's associated password, purchase a subscription and configure it, book a fitness class, and view reservations."
